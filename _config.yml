@@ -1,10 +1,10 @@
 # Site settings
 title: 黄先生说 | Mr.Huang Talk
-SEOTitle: 黄先生说 | Mr.Huang Talk
+SEOTitle: Mr.Huang Talk
 header-img: img/home-bg.jpg
 email: yellowwee@gmail.com
 description: "黄先生说"
-keyword: "黄玮的博客, 黄先生, 博客, 个人网站, 互联网, Web, 生产力, 知识, 效率"
+keyword: "黄玮的博客, 黄先生, 博客, 个人网站, 互联网, 职业生涯, 生产力, 知识, 效率"
 url: "https://mrhuangtalk.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -15,10 +15,10 @@ future: true
 RSS: false
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    YeeWee
+github_username:    MrHuangTalk
 #twitter_username:   huxpro
-facebook_username:  yellowwee
-linkedin_username:  Wei Huang
+#facebook_username:  yellowwee
+linkedin_username:  yellowwee
 
 
 
