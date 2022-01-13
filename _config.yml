@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Life is short.<br>Live your dream and share your passion"
-sidebar-avatar: img/avatar-mrHuang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-mrHuang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
