@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "个人网站搭建 Personal Website"
+title:      " Personal Website 搭建"
 subtitle:   " 通过 GitHub Page 快速搭建个人网站"
 date:       2022-01-14 10:00:00
 author:     "Huang Wei"
