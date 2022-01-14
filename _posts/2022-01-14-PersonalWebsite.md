@@ -4,7 +4,7 @@ title:      "个人网站搭建 Personal Website"
 subtitle:   " 通过 GitHub Page 快速搭建个人网站"
 date:       2022-01-14 10:00:00
 author:     "Huang Wei"
-header-img: "/img/posts/2022-01-14-PersonalWebsite/bg.jpg"
+header-img: "img/posts/2022-01-14-PersonalWebsite/bg.jpg"
 catalog: true
 ttags: 
     - Career
